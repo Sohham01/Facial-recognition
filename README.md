@@ -43,7 +43,6 @@ Facial-Emotion-Recognition/
 ├── app.ipynb
 ├── requirements.txt
 ├── README.md
-├── LICENSE
 ├── .gitignore
 │
 ├── model/
