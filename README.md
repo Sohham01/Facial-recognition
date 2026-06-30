@@ -52,18 +52,14 @@ Facial-Emotion-Recognition/
 │   └── training.ipynb
 │
 ├── memes/
-│   ├── angry.jpeg
-│   ├── disgust.jpeg
-│   ├── fear.jpeg
-│   ├── happy.jpeg
-│   ├── neutral.jpeg
-│   ├── sad.jpeg
-│   └── surprise.jpeg
-│
-├── screenshots/
-│
-└── docs/
-    └── Project_Report.pdf
+    ├── angry.jpeg
+    ├── disgust.jpeg
+    ├── fear.jpeg
+    ├── happy.jpeg
+    ├── neutral.jpeg
+    ├── sad.jpeg
+    └── surprise.jpeg
+
 ```
 
 ---
