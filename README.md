@@ -84,7 +84,7 @@ This allows users to run the application immediately without retraining the mode
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 Clone the repository
 
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Running the Application
+##  Running the Application
 
 ```bash
 python app.py
